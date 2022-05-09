@@ -18,3 +18,5 @@ apt install gcc libsdl2{,-image,-mixer,-ttf,-gfx}-dev
 * 03 一个黑色背景白色方块的窗体
 
 * 04 一个通过W/S/A/D键控制的白色方块窗体
+
+* 05 一个通过W/S/A/D键控制的白色方块窗体 (结构体实现)
