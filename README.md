@@ -20,3 +20,5 @@ apt install gcc libsdl2{,-image,-mixer,-ttf,-gfx}-dev
 * 04 一个通过W/S/A/D键控制的白色方块窗体
 
 * 05 一个通过W/S/A/D键控制的白色方块窗体 (结构体实现)
+
+* 06 一个通过W/S/A/D键控制的外星飞船窗体 (结构体实现)(SDL2-image)
